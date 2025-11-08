@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi there, I'm <span style="color:#3F8EFC;">Amit Ghume</span></h1>
+<h1 align="center">👋 Hi there, I'm <span style="color:#3F8EFC;">Amit </span></h1>
 <h3 align="center">Aspiring Data Analyst | Python • SQL • Excel • Power BI</h3>
 
 <p align="center">
